@@ -1,2 +1,2 @@
 # vuePro
-study git
+study vue + vue-router+vuex+mintui
